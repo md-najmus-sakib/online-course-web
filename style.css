@@ -3,6 +3,10 @@
     filter: brightness(45%);
 }
 
+.box-section {
+    background-color: #289BDE;
+}
+
 .sponsor-img {
     height: 28px;
 }
