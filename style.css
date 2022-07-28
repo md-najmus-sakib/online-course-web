@@ -1,7 +1,26 @@
 .cover-img {
     height: 620px;
+    filter: brightness(45%);
 }
 
 .sponsor-img {
     height: 28px;
+}
+
+.footer-link {
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    text-decoration: underline;
+}
+
+.footer-icon a {
+    color: #B9B9B9;
+    margin: 8px;
+    font-size: 40px;
+}
+
+.footer-icon a:hover {
+    color: rgb(59, 59, 198);
 }
